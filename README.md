@@ -1,4 +1,4 @@
-# 🌐 Persona Website Template (Relume-based)
+# 🌐 Borderless Website Template
 
 This is a world-class website template designed to help you quickly build high-quality, professional websites for clients. Based on a clean wireframe structure and refined layout inspired by Relume, this template is structured using HTML and Tailwind CSS.
 
@@ -23,7 +23,7 @@ This is a world-class website template designed to help you quickly build high-q
 
 ## 📂 Folder Structure
 
-/Persona
+/Borderless
 ├── index.html
 ├── /assets
 │ ├── css/
